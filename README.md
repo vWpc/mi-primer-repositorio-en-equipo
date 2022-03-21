@@ -1,1 +1,3 @@
-# mi-primer-repositorio-en-equipo
+Mora Kopech
+Ramiro Cordoba
+Valentino Casesi
